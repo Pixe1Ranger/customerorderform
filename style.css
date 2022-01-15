@@ -1,4 +1,17 @@
 table,
+th,
 td {
     border: thin solid;
+}
+table tr#ROW3 {
+ background-color: black;
+}
+table {width 50%}
+
+th{
+    text-align: left;
+
+}
+td#r3{
+    height: 20px;
 }
